@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/home/animo/Downloads/XYZReader/XYZReader/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
+        "source": "/home/animo/Downloads/XYZReader/XYZReader/src/main/res/drawable-xxhdpi/ic_share.png"
+    },
+    {
+        "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
+        "source": "/home/animo/Downloads/XYZReader/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
+    }
+]

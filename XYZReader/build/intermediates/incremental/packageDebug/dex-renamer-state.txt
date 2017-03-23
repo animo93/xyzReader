@@ -1,0 +1,7 @@
+#Thu Mar 23 23:36:43 IST 2017
+base.0=/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9f3a94fd8c2a717493684998f2b65602663d0033
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6e0c8d8cbd0ea38d71d14d3ae6312340247a8b06/classes.dex
+base.1=/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6e0c8d8cbd0ea38d71d14d3ae6312340247a8b06
+file.0=/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9f3a94fd8c2a717493684998f2b65602663d0033/classes.dex

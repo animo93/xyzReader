@@ -107,6 +107,7 @@
 </com.example.xyzreader.ui.DrawInsetsFrameLayout>-->
 <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/draw_insets_frame_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -164,10 +165,15 @@
             style="?android:attr/textAppearanceMedium"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="@color/ltgray"
+            android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier"
+            android:paddingLeft="16dp"
+            android:paddingTop="16dp"
+            android:paddingRight="16dp"
+            android:paddingBottom="4dp"
+            android:textColor="?attr/colorPrimaryDark"
             android:textColorLink="@color/theme_accent"
-            android:textSize="@dimen/detail_body_text_size"
-            android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier" />
+            android:breakStrategy="balanced"
+            android:textSize="@dimen/detail_body_text_size" />
 
     </android.support.v4.widget.NestedScrollView>
 

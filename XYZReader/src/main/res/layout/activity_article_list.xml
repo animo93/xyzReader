@@ -27,18 +27,11 @@
             android:paddingBottom="28dp" />
     </android.support.v4.widget.SwipeRefreshLayout>
 
-    <!--<FrameLayout
-        android:id="@+id/toolbar_container"
-        android:layout_width="match_parent"
-        android:layout_height="112dp"
-        android:background="@color/ltblack"
-        android:elevation="8dp">-->
-
     <android.support.design.widget.AppBarLayout
         android:id="@+id/toolbar_container"
         android:layout_width="match_parent"
         android:layout_height="112dp"
-        android:elevation="8dp"
+        android:elevation="4dp"
         android:fitsSystemWindows="true"
         app:theme="@style/Theme.Bacon">
 

@@ -1,34 +1,66 @@
 [
     {
-        "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/animo/.android/build-cache/823896f04acbbd1d58e8615592e2a6a415e169e4/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/animo/.android/build-cache/7cbac41ed84de46312e659b9e93e2009d5b2c988/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/animo/.android/build-cache/7cbac41ed84de46312e659b9e93e2009d5b2c988/output/res/anim/design_fab_in.xml"
     },
     {
         "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/home/animo/.android/build-cache/823896f04acbbd1d58e8615592e2a6a415e169e4/output/res/anim/abc_fade_out.xml"
+        "source": "/home/animo/.android/build-cache/386e739b7817aaa6a78a9919e0858774ced59030/output/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/home/animo/.android/build-cache/823896f04acbbd1d58e8615592e2a6a415e169e4/output/res/anim/abc_slide_out_bottom.xml"
+        "source": "/home/animo/.android/build-cache/386e739b7817aaa6a78a9919e0858774ced59030/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/animo/.android/build-cache/386e739b7817aaa6a78a9919e0858774ced59030/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/animo/.android/build-cache/7cbac41ed84de46312e659b9e93e2009d5b2c988/output/res/anim/design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/animo/.android/build-cache/823896f04acbbd1d58e8615592e2a6a415e169e4/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "source": "/home/animo/.android/build-cache/386e739b7817aaa6a78a9919e0858774ced59030/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/animo/.android/build-cache/7cbac41ed84de46312e659b9e93e2009d5b2c988/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/animo/.android/build-cache/386e739b7817aaa6a78a9919e0858774ced59030/output/res/anim/abc_popup_enter.xml"
     },
     {
         "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/home/animo/.android/build-cache/823896f04acbbd1d58e8615592e2a6a415e169e4/output/res/anim/abc_slide_in_top.xml"
+        "source": "/home/animo/.android/build-cache/386e739b7817aaa6a78a9919e0858774ced59030/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/animo/.android/build-cache/7cbac41ed84de46312e659b9e93e2009d5b2c988/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/animo/.android/build-cache/7cbac41ed84de46312e659b9e93e2009d5b2c988/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/animo/.android/build-cache/386e739b7817aaa6a78a9919e0858774ced59030/output/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/animo/.android/build-cache/823896f04acbbd1d58e8615592e2a6a415e169e4/output/res/anim/abc_slide_out_top.xml"
+        "source": "/home/animo/.android/build-cache/386e739b7817aaa6a78a9919e0858774ced59030/output/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/home/animo/.android/build-cache/823896f04acbbd1d58e8615592e2a6a415e169e4/output/res/anim/abc_fade_in.xml"
+        "source": "/home/animo/.android/build-cache/386e739b7817aaa6a78a9919e0858774ced59030/output/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/home/animo/.android/build-cache/823896f04acbbd1d58e8615592e2a6a415e169e4/output/res/anim/abc_slide_in_bottom.xml"
+        "source": "/home/animo/.android/build-cache/386e739b7817aaa6a78a9919e0858774ced59030/output/res/anim/abc_slide_in_bottom.xml"
     }
 ]

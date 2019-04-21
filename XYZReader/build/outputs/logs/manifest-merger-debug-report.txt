@@ -31,12 +31,14 @@ ADDED from /home/animo/Downloads/XYZReader/XYZReader/src/main/AndroidManifest.xm
 		ADDED from /home/animo/Downloads/XYZReader/XYZReader/src/main/AndroidManifest.xml:9:22-76
 application
 ADDED from /home/animo/Downloads/XYZReader/XYZReader/src/main/AndroidManifest.xml:11:5-46:19
-MERGED from [com.android.support:support-v13:22.0.0] /home/animo/.android/build-cache/9773ee27e824cc6cf397df663d388526fcf7e215/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:22.0.0] /home/animo/.android/build-cache/823896f04acbbd1d58e8615592e2a6a415e169e4/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:palette-v7:22.0.0] /home/animo/.android/build-cache/711615635ea247762f99ca2e16c4f0dbadfd4012/output/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:recyclerview-v7:22.0.0] /home/animo/.android/build-cache/ba334e187126db0a9155220aeba1c493e231a6b1/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:22.0.0] /home/animo/.android/build-cache/e2b1133d6e350dbd8c364638ec039aa7614a2b69/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:cardview-v7:22.0.0] /home/animo/.android/build-cache/a0b1e6f4de9a78dde36a3fc33f3adb71dda4c668/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.2.1] /home/animo/.android/build-cache/7cbac41ed84de46312e659b9e93e2009d5b2c988/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] /home/animo/.android/build-cache/386e739b7817aaa6a78a9919e0858774ced59030/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /home/animo/.android/build-cache/24acac6ab431fa847f1e7a9f43f1aac920bbe9b4/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /home/animo/.android/build-cache/7dd74cb816b16b9dca2ba8cb4ffe0f729b0c8da2/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v13:23.2.1] /home/animo/.android/build-cache/abd317acb454131a183d92e21be6fffa90b5573f/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:23.2.1] /home/animo/.android/build-cache/ce5be9124ed890ede16125c055fd39b7b6bb22b2/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-v4:23.2.1] /home/animo/.android/build-cache/e73a98e29925b5910c9478c61e1225615d06e384/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.2.1] /home/animo/.android/build-cache/a75cf107e11425b8e47af1bfc1d29be3c5221798/output/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /home/animo/Downloads/XYZReader/XYZReader/src/main/AndroidManifest.xml:14:9-41
 	android:allowBackup
@@ -103,21 +105,20 @@ ADDED from /home/animo/Downloads/XYZReader/XYZReader/src/main/AndroidManifest.xm
 		ADDED from /home/animo/Downloads/XYZReader/XYZReader/src/main/AndroidManifest.xml:42:19-53
 uses-sdk
 INJECTED from /home/animo/Downloads/XYZReader/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v13:22.0.0] /home/animo/.android/build-cache/9773ee27e824cc6cf397df663d388526fcf7e215/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:22.0.0] /home/animo/.android/build-cache/823896f04acbbd1d58e8615592e2a6a415e169e4/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:palette-v7:22.0.0] /home/animo/.android/build-cache/711615635ea247762f99ca2e16c4f0dbadfd4012/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:22.0.0] /home/animo/.android/build-cache/ba334e187126db0a9155220aeba1c493e231a6b1/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.0.0] /home/animo/.android/build-cache/e2b1133d6e350dbd8c364638ec039aa7614a2b69/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:22.0.0] /home/animo/.android/build-cache/a0b1e6f4de9a78dde36a3fc33f3adb71dda4c668/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.2.1] /home/animo/.android/build-cache/7cbac41ed84de46312e659b9e93e2009d5b2c988/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.1] /home/animo/.android/build-cache/386e739b7817aaa6a78a9919e0858774ced59030/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /home/animo/.android/build-cache/24acac6ab431fa847f1e7a9f43f1aac920bbe9b4/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /home/animo/.android/build-cache/7dd74cb816b16b9dca2ba8cb4ffe0f729b0c8da2/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v13:23.2.1] /home/animo/.android/build-cache/abd317acb454131a183d92e21be6fffa90b5573f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:23.2.1] /home/animo/.android/build-cache/ce5be9124ed890ede16125c055fd39b7b6bb22b2/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.1] /home/animo/.android/build-cache/626d6d3d831f442e29c663768c43432a253c4db4/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /home/animo/.android/build-cache/e73a98e29925b5910c9478c61e1225615d06e384/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.2.1] /home/animo/.android/build-cache/a75cf107e11425b8e47af1bfc1d29be3c5221798/output/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.1] /home/animo/.android/build-cache/386e739b7817aaa6a78a9919e0858774ced59030/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /home/animo/Downloads/XYZReader/XYZReader/src/main/AndroidManifest.xml
 		INJECTED from /home/animo/Downloads/XYZReader/XYZReader/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /home/animo/Downloads/XYZReader/XYZReader/src/main/AndroidManifest.xml
 		INJECTED from /home/animo/Downloads/XYZReader/XYZReader/src/main/AndroidManifest.xml
-activity#android.support.v7.widget.TestActivity
-ADDED from [com.android.support:recyclerview-v7:22.0.0] /home/animo/.android/build-cache/ba334e187126db0a9155220aeba1c493e231a6b1/output/AndroidManifest.xml:23:9-25:56
-	android:label
-		ADDED from [com.android.support:recyclerview-v7:22.0.0] /home/animo/.android/build-cache/ba334e187126db0a9155220aeba1c493e231a6b1/output/AndroidManifest.xml:25:13-53
-	android:name
-		ADDED from [com.android.support:recyclerview-v7:22.0.0] /home/animo/.android/build-cache/ba334e187126db0a9155220aeba1c493e231a6b1/output/AndroidManifest.xml:24:13-66

@@ -11,13 +11,13 @@
                     "endOffset": 112
                 },
                 "from": {
-                    "file": "/home/animo/.android/build-cache/823896f04acbbd1d58e8615592e2a6a415e169e4/output/res/values-w480dp-v13/values.xml",
+                    "file": "/home/animo/.android/build-cache/386e739b7817aaa6a78a9919e0858774ced59030/output/res/values-w480dp-v13/values-w480dp-v13.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 278,
+                        "startOffset": 55,
                         "endColumn": 61,
-                        "endOffset": 335
+                        "endOffset": 112
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "/home/animo/.android/build-cache/823896f04acbbd1d58e8615592e2a6a415e169e4/output/res/values-w480dp-v13/values.xml",
+                    "file": "/home/animo/.android/build-cache/386e739b7817aaa6a78a9919e0858774ced59030/output/res/values-w480dp-v13/values-w480dp-v13.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 564,
+                        "startOffset": 117,
                         "endColumn": 71,
-                        "endOffset": 631
+                        "endOffset": 184
                     }
                 }
             }

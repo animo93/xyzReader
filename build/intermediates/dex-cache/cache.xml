@@ -3,30 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/home/animo/.android/build-cache/e2b1133d6e350dbd8c364638ec039aa7614a2b69/output/jars/classes.jar"
+        jar="/home/animo/.android/build-cache/626d6d3d831f442e29c663768c43432a253c4db4/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31d6f903542f9afd1892b706dbd15e8c91b3f2cd/classes.dex" />
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_daf002e8f24fa14aa907d8c1fde1390b6ed6732d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/animo/.android/build-cache/ba334e187126db0a9155220aeba1c493e231a6b1/output/jars/classes.jar"
+        jar="/home/animo/.android/build-cache/386e739b7817aaa6a78a9919e0858774ced59030/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0861bbe36240f2a2426da7047e473685dec3d0db/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/animo/.android/build-cache/e2b1133d6e350dbd8c364638ec039aa7614a2b69/output/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_df4b95bb65244f889f0f3c01332a11dc568d7cda/classes.dex" />
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9313fad677ae75f7d385ce3a4bb752b71b63f26f/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -34,17 +25,26 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="aaf20740b7150d1cbba08769e9b94e5d2cdb70c6">
+        sha1="fa0f3f583cbd843e7eb5495d563f30ed586d1c14">
         <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6e0c8d8cbd0ea38d71d14d3ae6312340247a8b06/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/animo/.android/build-cache/9773ee27e824cc6cf397df663d388526fcf7e215/output/jars/classes.jar"
+        jar="/home/animo/.android/build-cache/24acac6ab431fa847f1e7a9f43f1aac920bbe9b4/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
-        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47b9419273732bf417efdfaa447909617bfb994a/classes.dex" />
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0612f5d08715a5f3eaaeaa4d3224012bf4e1a0e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/animo/.android/build-cache/ce5be9124ed890ede16125c055fd39b7b6bb22b2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bcee2598dbb74f6d043225a0d7e178b0c7ea4006">
+        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d55fe534406a850a7c1ee3515fcbe26281eb3da2/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -57,12 +57,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/animo/.android/build-cache/711615635ea247762f99ca2e16c4f0dbadfd4012/output/jars/classes.jar"
+        jar="/home/animo/.android/build-cache/7cbac41ed84de46312e659b9e93e2009d5b2c988/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
-        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1be4e1095c92be6e8c281dd05fff11ec5028263e/classes.dex" />
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7945e4fce063a564a0259b0c0d05743232865366/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/animo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_b0c4ebc7ff99570b7a94bf4f2a9ef3f9107a9700/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,21 +84,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/animo/.android/build-cache/823896f04acbbd1d58e8615592e2a6a415e169e4/output/jars/classes.jar"
+        jar="/home/animo/.android/build-cache/e73a98e29925b5910c9478c61e1225615d06e384/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd6fded564e936cd8958d2790c327939cf4a0f98/classes.dex" />
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7497bb530fa939575dc3ddb48c4aa3c8a4428489/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/animo/.android/build-cache/a0b1e6f4de9a78dde36a3fc33f3adb71dda4c668/output/jars/classes.jar"
+        jar="/home/animo/.android/build-cache/abd317acb454131a183d92e21be6fffa90b5573f/output/jars/libs/internal_impl-23.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
-        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05f2293ea5cb469b59090392c80b6ee7cfdba030/classes.dex" />
+        sha1="bd48446a8b4b2fdcac0e38f49b5d6dc3abb1eefa">
+        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_b9812d266dda21954bd5344bab9184a5aef12b23/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -97,26 +106,17 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
         <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9f3a94fd8c2a717493684998f2b65602663d0033/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/animo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jar="/home/animo/.android/build-cache/abd317acb454131a183d92e21be6fffa90b5573f/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_1372b2ce1fde3ad2f7eca2e59c8c7c9fd291aef7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/animo/.android/build-cache/9773ee27e824cc6cf397df663d388526fcf7e215/output/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
-        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_a6d101c74a675c303ac29942ffb63df712500037/classes.dex" />
+        sha1="b95d10913c24f217dca25ccfb8293a04ebfed3a8">
+        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c39d49aa0471629abeca6a1a6444f9a25fc44055/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -126,6 +126,33 @@
         revision="25.0.0"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
         <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_f124d55ff28ea88f6767a366317959b221373805/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/animo/.android/build-cache/7dd74cb816b16b9dca2ba8cb4ffe0f729b0c8da2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7fc6504f10650476ffed8be784ca38befd32f03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/animo/.android/build-cache/e73a98e29925b5910c9478c61e1225615d06e384/output/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_efca9473af0792e895eca1157c8f9a7cc2245da1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/animo/.android/build-cache/a75cf107e11425b8e47af1bfc1d29be3c5221798/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/home/animo/Downloads/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b370a6dd2a03a4daab8ced9497b0d86625905368/classes.dex" />
     </item>
 
 </items>

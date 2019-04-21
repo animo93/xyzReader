@@ -9,17 +9,17 @@
                     "startOffset": 55,
                     "endLine": 6,
                     "endColumn": 13,
-                    "endOffset": 325
+                    "endOffset": 327
                 },
                 "from": {
-                    "file": "/home/animo/.android/build-cache/823896f04acbbd1d58e8615592e2a6a415e169e4/output/res/values-hdpi-v4/values.xml",
+                    "file": "/home/animo/.android/build-cache/386e739b7817aaa6a78a9919e0858774ced59030/output/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 282,
-                        "endLine": 8,
+                        "startOffset": 55,
+                        "endLine": 6,
                         "endColumn": 13,
-                        "endOffset": 552
+                        "endOffset": 327
                     }
                 }
             }
